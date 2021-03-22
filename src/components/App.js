@@ -11,6 +11,7 @@ const App = () => {
       Application
       <RandomList />  
       <AnotherComponent />
+      <AnotherComponent />
     </div>
   )
 }

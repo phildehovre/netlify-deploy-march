@@ -1,6 +1,5 @@
 import React, { useEffect, useState } from 'react';
 import axios from 'axios'
-import Router, { route } from 'react-router-dom'
 
 import RandomList from './RandomList';
 import AnotherComponent from './AnotherComponent';
